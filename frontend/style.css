@@ -1,0 +1,35 @@
+.main {
+  text-align: center;
+}
+
+.text__white {
+  color: #fff;
+}
+
+.text__red {
+  color: red;
+} 
+.text__orange {
+  color: orange;
+} 
+.text__green {
+  color: green;
+} 
+.text__blue {
+  color: blue;
+} 
+.text__magenta {
+  color: magenta;
+}
+
+.bg__black {
+  background-color: #000;
+}
+
+p {
+  margin: 5vh auto;
+}
+
+p > span {
+  font-size: 2rem;
+}
